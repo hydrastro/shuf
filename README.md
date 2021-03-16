@@ -1,6 +1,6 @@
 # shuf
-a simple implementation of shuf\
-it prints a random line of a given file.
+A simple implementation of shuf.\
+It prints a random line of a given file.
 
 ## Compilation
 
