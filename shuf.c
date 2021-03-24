@@ -59,6 +59,7 @@ void printFileRow(FILE *stream, int row){
             printf("%c", *readChar);
         }
     }
+    printf("\n");
     rewind(stream);
 }
 
