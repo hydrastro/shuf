@@ -6,4 +6,4 @@ int getRandomInt(int min, int max);
 void printFileRow(FILE *stream, int row);
 void printRandomRow(FILE *stream);
 
-#endif //SHUF_H
+#endif /* SHUF_H */
